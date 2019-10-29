@@ -1,0 +1,7 @@
+<suite name="Search repo">
+	<test thread-count="5" name="homepage">
+		<classes>
+			<class name="tests.login.java" />
+		</classes>
+	</test>
+</suite>
