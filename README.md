@@ -10,8 +10,11 @@ The automation tests can check the following functions:
 3) navigate to the selected project.
 4) showing the selected project details
 
-## Tests files
+## Tests file
+seleniumJavaFramework > src > test > tests > acceptedConditions.java
 
+## PageObject file
+seleniumJavaFramework > src > test > tests > pages > acceptedCondittionsPageObject.java
 
 ## Getting Started
 
