@@ -3,12 +3,15 @@
 # github e2e functional testing.
 
 The project contains e2e automation testing scenarios for *github.com* website,the full scenario is: the user is able to search for a specific project the going to that project and see the details, 
-i used Maven Project along with TestNG Framework that use Java as a programming language, The Project contains a simple functional testing for single type of users.
+i used Maven Project along with TestNG Framework that use Java as a programming language moreover Page Object Model as a programming design pattern, The Project contains a simple functional testing for single type of users.
 The automation tests can check the following functions:
 1) showing the search bar placeholder.
 2) searching for a project and retrieve all results.
 3) navigate to the selected project.
 4) showing the selected project details
+
+## Tests files
+
 
 ## Getting Started
 
